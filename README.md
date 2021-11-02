@@ -6,15 +6,15 @@
 
 ## Who am I?
 
-I'm <p style="font-weight: bold;">TheBallMarcus!</p>
+I'm **TheBallMarcus!**
 
-I'm a young, openminded and passionate programmer, who do not care about limits. <p style="font-weight: bold;">LIMITS IS ONLY THERE TO BE BROKEN!</p>
+I'm a young, openminded and passionate programmer, who do not care about limits. **LIMITS IS ONLY THERE TO BE BROKEN!** 🚀
 
 
 
-I care about ***our world.*** I think it's important that we take care of it. I care about our ~~privacy~~. The internet today is way too _dangerous_. Way to many companies collect way more information, than they actually need - and I believe in an [open source world](https://da.wikipedia.org/wiki/Open_source). 
+I care about ***our world.*** 🌎  I think it's important that we take care of it. I care about our ~~privacy~~. 📚The internet today is way too _dangerous_. Way to many companies collect way more information, than they actually need - and I believe in an [open source world](https://da.wikipedia.org/wiki/Open_source). 
 
-That is the sore reason that I use [Linux](https://www.linux.org/). It's open source, its more secure, and it's 1 further step towards **a better internet**.
+That is the sore reason that I use [Linux](https://www.linux.org/). It's open source, its more secure, and it's 1 further step towards **a better internet**. 🌐
 
 ---
 
@@ -30,7 +30,7 @@ That is the sore reason that I use [Linux](https://www.linux.org/). It's open so
 - 😰 [Most embarrasing story](https://youtu.be/dQw4w9WgXcQ).
 - ⌨ Main programming languages: `.py` `.js` `.html` `.css` `.ts`
 
-### Find me on:
+### 💬 Find me on:
 
 - GitHub: [theballmarcus](http://www.github.com/theballmarcus/)
 
@@ -40,4 +40,4 @@ That is the sore reason that I use [Linux](https://www.linux.org/). It's open so
 
 - Twitter: [Marcus](https://twitter.com/Marcus79167634)
 
-- HackTheBox: [Marcus]([Hack The Box](https://app.hackthebox.com/profile/183035))
+- HackTheBox: [Marcus](https://app.hackthebox.com/profile/183035)

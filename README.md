@@ -23,12 +23,12 @@ That is the sore reason that I use [Linux](https://www.linux.org/). It's open so
   <img width="50%" align="right" alt="Theballmarcus's github statistics" src="https://github-readme-stats.vercel.app/api?username=theballmarcus&show_icons=true&hide_border=true&hide=issues" />
 </a>
 
-- 📓 I'm currently studying at [Atheneskolen](https://atheneskolen.dk/)
-- 💻 Take a look at my [website](https://marcusihme.dk)!
+- 📓 I'm currently studying at [H.C. Ørested - Lyngby](https://tec.dk/hc-oersted-gymnasiet/hc-oersted-gymnasiet-i-lyngby)
+- 💻 Take a look at my [website](https://theballmarcus.dk)!
 - 💬 Ask me about anything! I'm happy to help.
 - ⚡️ Fun-Fact: I started coding as an nine-year-old and I haven't stopped since.
 - 😰 [Most embarrasing story](https://youtu.be/dQw4w9WgXcQ).
-- ⌨ Main programming languages: `.py` `.js` `.html` `.css` `.ts`
+- ⌨ Main programming languages: `.py` `.js` `.html` `.css` `.ts` `.c` `.cpp` 
 
 ### 💬 Find me on:
 
@@ -41,3 +41,5 @@ That is the sore reason that I use [Linux](https://www.linux.org/). It's open so
 - Twitter: [Marcus](https://twitter.com/Marcus79167634)
 
 - HackTheBox: [Marcus](https://app.hackthebox.com/profile/183035)
+
+- Linkedin: [Marcus Ihme](https://www.linkedin.com/in/marcus-ihme/)
